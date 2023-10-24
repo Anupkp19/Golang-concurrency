@@ -1,3 +1,2 @@
-# Go Essential Training
-![Go Essential Training][lil-thumbnail-url] 
+# Go Concurrency Training
 
